@@ -1,5 +1,5 @@
 ## Inference
-switch is faster than if
+``switch`` is faster than ``if..elsif``
 
 ## Output
 
