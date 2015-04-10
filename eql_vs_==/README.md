@@ -3,14 +3,14 @@
 
 ## Output
 
-### Switch
+### ==
 
 ```sh
        user     system      total        real
    0.290000   0.010000   0.300000 (  0.288342)
 ```
 
-### If..elsif..
+### eql
 
 ```sh
        user     system      total        real
